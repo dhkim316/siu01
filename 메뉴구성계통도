@@ -1,0 +1,8 @@
+menuProcess -> menuselector        -> moveMenuIndexDown
+               selectMenuDisplay -> getMenu
+               
+            -> applyMenuValuetoLcd
+            -> isSettingMenu
+
+setProcess --> setMenu --> applyMenuValuetoLcd
+               cursor
